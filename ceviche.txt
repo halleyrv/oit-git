@@ -4,6 +4,11 @@ Ingregientes:
 - Pescado
 - Limón
 - ají
+- canchita
+- papa
+- camote
+- lechuga
+- choclo
 
 Preparación:
 - Exprimir los limones.
